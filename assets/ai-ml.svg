@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Artificial intelligence and neural-network engineering</title><desc id="desc">Crisp scalable futuristic artwork for Tarun Singh's GitHub profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020B18"/><stop offset=".5" stop-color="#06254C"/><stop offset="1" stop-color="#100C31"/></linearGradient>
+<linearGradient id="net" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19DFFF"/><stop offset=".55" stop-color="#648BFF"/><stop offset="1" stop-color="#D77AFF"/></linearGradient>
+<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#2ABEFF" stroke-opacity=".13"/></pattern></defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<g stroke="url(#net)" stroke-width="1.5" opacity=".6" fill="none">
+<path d="M85 86 L285 70 L480 110"/><path d="M103 114 L288 108 L484 137"/><path d="M121 142 L291 146 L488 164"/><path d="M139 170 L294 184 L492 191"/><path d="M157 198 L297 222 L496 218"/><path d="M175 226 L300 260 L500 245"/>
+<path d="M500 90C550 40 590 80 625 100S700 140 750 90S840 120 880 90"/>
+<path d="M500 270C550 310 590 270 625 250S700 210 750 260S840 230 880 260"/>
+</g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.97">
+    <path d="M690 106 C660 66 610 77 596 113 C560 116 549 151 566 180 C544 213 566 247 598 249 C613 278 653 277 675 253 C700 264 724 245 724 220 C747 196 738 167 721 156 C724 130 708 112 690 106 Z" stroke="#19DFFF" stroke-width="3"/>
+    <path d="M724 111 C750 76 797 79 813 112 C851 115 862 146 847 175 C868 206 851 239 817 249 C803 277 764 277 741 252 C728 238 727 224 724 220 Z" stroke="#B67BFF" stroke-width="3"/>
+    <path d="M724 108 C715 130 735 142 724 159 C715 174 738 190 724 211 C716 225 730 241 741 252" stroke="#B67BFF" stroke-width="2"/>
+    <path d="M602 119 Q629 135 610 157 T612 194 T642 231 M660 99 Q646 128 667 148 T663 184 T676 216 M797 105 Q777 130 799 149 T796 186 T817 225 M835 130 Q808 150 827 174 T812 208" stroke="#19DFFF" stroke-width="1.8" opacity=".85"/>
+    <path d="M584 146 Q617 145 637 165 T680 174 M580 207 Q619 190 640 207 T677 235 M761 123 Q780 149 755 166 T765 201 T752 238 M812 147 Q777 177 808 192 T810 224" stroke="#B67BFF" stroke-width="1.6" opacity=".75"/>
+  </g>
+  <g fill="#19DFFF">
+    <circle cx="596" cy="113" r="4"/><circle cx="610" cy="157" r="4"/><circle cx="642" cy="231" r="4"/>
+    <circle cx="667" cy="148" r="4"/><circle cx="680" cy="174" r="4"/><circle cx="676" cy="216" r="4"/>
+  </g>
+  <g fill="#B67BFF">
+    <circle cx="813" cy="112" r="4"/><circle cx="799" cy="149" r="4"/><circle cx="796" cy="186" r="4"/>
+    <circle cx="817" cy="225" r="4"/><circle cx="765" cy="201" r="4"/><circle cx="752" cy="238" r="4"/>
+  </g>
+
+<g fill="none" stroke="#42D8FF" stroke-width="2" opacity=".8"><path d="M900 110H1138V252H900Z"/><path d="M920 232L956 210L992 220L1030 167L1068 180L1115 136"/><path d="M920 150H1116 M920 183H1116 M920 216H1116"/></g>
+<g fill="#53E5FF"><circle cx="956" cy="210" r="5"/><circle cx="992" cy="220" r="5"/><circle cx="1030" cy="167" r="5"/><circle cx="1068" cy="180" r="5"/><circle cx="1115" cy="136" r="5"/></g>
+<g font-family="monospace" fill="#9BDDFF" opacity=".8"><text x="60" y="324" font-size="19">INPUT</text><text x="330" y="324" font-size="19">LAYERS</text><text x="600" y="324" font-size="19">LEARNING</text><text x="943" y="324" font-size="19">PREDICTION</text></g>
+
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Generative AI LLM and retrieval systems</title><desc id="desc">Crisp scalable futuristic artwork for Tarun Singh's GitHub profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0618"/><stop offset=".5" stop-color="#24103E"/><stop offset="1" stop-color="#06182B"/></linearGradient>
+<linearGradient id="vio" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C07BFF"/><stop offset=".52" stop-color="#6B7DFF"/><stop offset="1" stop-color="#31DDF7"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B889FF" stroke-opacity=".12"/></pattern></defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<g fill="#21163B" stroke="url(#vio)" stroke-width="2"><rect x="90" y="92" width="150" height="175" rx="12"/><rect x="110" y="72" width="150" height="175" rx="12"/><rect x="130" y="52" width="150" height="175" rx="12"/></g>
+<g stroke="#D1B5FF" stroke-width="3" stroke-linecap="round" opacity=".9"><path d="M155 100H253M155 123H238M155 146H245M155 169H222"/><path d="M155 192H240"/></g>
+<g fill="none" stroke="url(#vio)" stroke-width="2.5"><path d="M284 142C350 142 350 98 418 98S470 180 530 180"/><path d="M284 196C355 196 365 254 424 254S475 180 530 180"/></g>
+<g fill="#B98CFF" stroke="#24103E" stroke-width="3"><circle cx="418" cy="98" r="8"/><circle cx="424" cy="254" r="8"/><circle cx="530" cy="180" r="10"/></g>
+<g fill="none" stroke="url(#vio)" stroke-width="2.4"><path d="M530 180C595 180 590 110 655 110S720 164 770 164"/><path d="M530 180C600 180 595 248 655 248S718 198 770 198"/><path d="M770 164C840 164 853 98 910 98S966 130 1018 130"/><path d="M770 198C840 198 853 264 910 264S966 232 1018 232"/></g>
+<g fill="#56E4FF"><circle cx="655" cy="110" r="6"/><circle cx="655" cy="248" r="6"/><circle cx="770" cy="164" r="7"/><circle cx="770" cy="198" r="7"/><circle cx="910" cy="98" r="6"/><circle cx="910" cy="264" r="6"/><circle cx="1018" cy="130" r="6"/><circle cx="1018" cy="232" r="6"/></g>
+<g font-family="monospace" font-size="17" fill="#D9D0FF" opacity=".93"><text x="128" y="306">DOCUMENTS</text><text x="392" y="306">EMBEDDINGS</text><text x="615" y="306">RETRIEVAL</text><text x="875" y="306">LLM / RAG</text></g>
+
+</svg>

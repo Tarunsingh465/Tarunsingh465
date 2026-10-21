@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- THEME 1: MATRIX GREEN — profile identity -->
-<img width="100%" src="./assets/matrix-profile.jpg" alt="Neon-green Matrix digital rain — Tarun Singh profile theme" />
+<p align="center"><img width="100%" src="./assets/matrix-profile.svg" alt="Neon-green Matrix digital rain — Tarun Singh profile theme" /></p>
 
 <h1>⌁ TARUN SINGH ⌁</h1>
 
@@ -52,11 +52,9 @@ Jump to a section, open the expandable panels, or use the resume button above.
 <a id="profile"></a>
 ## `01 // PROFILE` — Matrix terminal
 
-<div align="center">
-
-<img width="88%" src="./assets/matrix-neural-hybrid.jpg" alt="Matrix code merging with a luminous neural-network brain" />
-
-</div>
+<p align="center">
+  <img width="100%" src="./assets/matrix-neural-hybrid.svg" alt="Matrix code merging with a crisp neon neural brain" />
+</p>
 
 ```text
 USER       : Tarun Singh
@@ -80,16 +78,15 @@ I'm a Computer Science (Data Science) student interested in the reasoning behind
 <a id="maths"></a>
 ## `02 // MATHEMATICS, PROBABILITY & STATISTICS`
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/math-statistics.svg" alt="Crisp vector banner showing probability distributions, graphs, matrices and statistical analysis" />
+</p>
 
-<!-- THEME 2: INDIGO / CYAN / VIOLET -->
-<img width="100%" src="./assets/math-statistics.jpg" alt="Neon mathematics, vectors, distributions, graphs and statistical surfaces" />
-
-<img src="https://img.shields.io/badge/LINEAR%20ALGEBRA-VECTORS%20%2B%20MATRICES-7E78FF?style=for-the-badge&labelColor=090D24" alt="Linear algebra" />
-<img src="https://img.shields.io/badge/PROBABILITY-UNCERTAINTY%20%2B%20DISTRIBUTIONS-4BD7FF?style=for-the-badge&labelColor=090D24" alt="Probability" />
-<img src="https://img.shields.io/badge/STATISTICS-INFERENCE%20%2B%20EDA-CB8CFF?style=for-the-badge&labelColor=100B25" alt="Statistics" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LINEAR%20ALGEBRA-VECTORS%20%2B%20MATRICES-7E78FF?style=for-the-badge&labelColor=090D24" alt="Linear algebra" />
+  <img src="https://img.shields.io/badge/PROBABILITY-UNCERTAINTY%20%2B%20DISTRIBUTIONS-4BD7FF?style=for-the-badge&labelColor=090D24" alt="Probability" />
+  <img src="https://img.shields.io/badge/STATISTICS-INFERENCE%20%2B%20EDA-CB8CFF?style=for-the-badge&labelColor=100B25" alt="Statistics" />
+</p>
 
 > **Data Science is mathematical thinking applied to evidence.** I focus on strengthening the math and statistics that explain how data and models behave.
 
@@ -153,16 +150,15 @@ I'm a Computer Science (Data Science) student interested in the reasoning behind
 <a id="datascience"></a>
 ## `03 // DATA SCIENCE` — From raw data to useful insight
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/data-science-brain.svg" alt="High-resolution vector neural brain with charts and data connections" />
+</p>
 
-<!-- THEME 3: BLUE / VIOLET NEURAL DATA SCIENCE -->
-<img width="76%" src="./assets/data-science-brain.jpg" alt="Blue and violet glowing neural network brain representing data science" />
-
-<img src="https://img.shields.io/badge/DATA%20PREPARATION-665DDE?style=for-the-badge&labelColor=0B1025" alt="Data preparation" />
-<img src="https://img.shields.io/badge/EXPLORATION-8279FF?style=for-the-badge&labelColor=0B1025" alt="Exploratory data analysis" />
-<img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-C58AFF?style=for-the-badge&labelColor=100B25" alt="Statistical analysis" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA%20PREPARATION-665DDE?style=for-the-badge&labelColor=0B1025" alt="Data preparation" />
+  <img src="https://img.shields.io/badge/EXPLORATION-8279FF?style=for-the-badge&labelColor=0B1025" alt="Exploratory data analysis" />
+  <img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-C58AFF?style=for-the-badge&labelColor=100B25" alt="Statistical analysis" />
+</p>
 
 <details open>
 <summary><b>Data handling & exploration</b></summary>
@@ -200,12 +196,9 @@ I aim to understand dataset quality and assumptions before drawing conclusions f
 <a id="aiml"></a>
 ## `04 // ARTIFICIAL INTELLIGENCE & MACHINE LEARNING`
 
-<div align="center">
-
-<!-- THEME 4: ELECTRIC BLUE / CYAN -->
-<img width="100%" src="./assets/ai-ml.jpg" alt="Electric-blue artificial intelligence neural network and data systems" />
-
-</div>
+<p align="center">
+  <img width="100%" src="./assets/ai-ml.svg" alt="Electric blue scalable illustration of neural networks and machine learning" />
+</p>
 
 <details open>
 <summary><b>Machine Learning</b></summary>
@@ -261,16 +254,15 @@ I aim to understand dataset quality and assumptions before drawing conclusions f
 <a id="genai"></a>
 ## `05 // GENERATIVE AI` — LLMs, retrieval & context
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/genai.svg" alt="Violet generative AI illustration showing documents, embeddings, retrieval and language models" />
+</p>
 
-<!-- THEME 5: PURPLE / PINK / NEON CYAN -->
-<img width="100%" src="./assets/matrix-neural-hybrid.jpg" alt="Matrix code and glowing neural brain blended into one AI visual" />
-
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&labelColor=190D25" alt="Large language models" />
-<img src="https://img.shields.io/badge/RAG-C084FC?style=for-the-badge&labelColor=190D25" alt="Retrieval augmented generation" />
-<img src="https://img.shields.io/badge/EMBEDDINGS-22D3EE?style=for-the-badge&labelColor=071A25" alt="Embeddings" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&labelColor=190D25" alt="Large language models" />
+  <img src="https://img.shields.io/badge/RAG-C084FC?style=for-the-badge&labelColor=190D25" alt="Retrieval augmented generation" />
+  <img src="https://img.shields.io/badge/EMBEDDINGS-22D3EE?style=for-the-badge&labelColor=071A25" alt="Embeddings" />
+</p>
 
 <details open>
 <summary><b>LLM application building blocks</b></summary>
@@ -331,12 +323,9 @@ I aim to understand dataset quality and assumptions before drawing conclusions f
 <a id="about"></a>
 ## `07 // ABOUT, CREDENTIALS & CONTACT`
 
-<div align="center">
-
-<!-- THEME 6: COPPER / GOLD / CHARCOAL -->
-<img width="100%" src="./assets/about-contact.jpg" alt="Warm copper and gold data landscape representing personal profile and contact" />
-
-</div>
+<p align="center">
+  <img width="100%" src="./assets/about-contact.svg" alt="Copper and gold vector banner for profile, credentials and contact" />
+</p>
 
 <table>
 <tr><td><b>Education</b></td><td>B.Tech, Computer Science (Data Science) — IPS Academy, Indore</td></tr>

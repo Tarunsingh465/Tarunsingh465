@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mathematics probability and statistics visualization</title><desc id="desc">Crisp scalable futuristic artwork for Tarun Singh's GitHub profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B20"/><stop offset=".5" stop-color="#111542"/><stop offset="1" stop-color="#24103D"/></linearGradient>
+<linearGradient id="curve" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3CDFFF"/><stop offset=".5" stop-color="#8A81FF"/><stop offset="1" stop-color="#EC7DFF"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7C8CFF" stroke-opacity=".16"/></pattern></defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<g font-family="monospace" fill="#C2CCFF" opacity=".92"><text x="48" y="66" font-size="32">Σ</text><text x="108" y="66" font-size="26">∫ f(x) dx</text><text x="48" y="101" font-size="20">P(A | B)</text><text x="48" y="130" font-size="18">E[X] · Var(X)</text><text x="968" y="66" font-size="22">y = f(x)</text><text x="968" y="98" font-size="18">μ  σ²</text></g>
+<g fill="none" stroke="#5B86FF" stroke-width="1.5" opacity=".72"><path d="M70 285H410 M70 285V160"/><path d="M730 285H1138 M730 285V150"/></g>
+<path d="M80 282 C130 280 147 270 180 242 S220 160 258 166 S312 246 345 270 S389 282 405 284" fill="none" stroke="url(#curve)" stroke-width="4" stroke-linecap="round"/>
+<g fill="none" stroke="url(#curve)" stroke-width="3"><path d="M735 267C776 236 803 217 835 206S890 158 920 185S964 257 1000 246S1074 194 1135 155"/></g>
+<g fill="#57DBFF" stroke="#13183B" stroke-width="2"><circle cx="762" cy="257" r="5"/><circle cx="805" cy="226" r="5"/><circle cx="835" cy="206" r="5"/><circle cx="875" cy="174" r="5"/><circle cx="920" cy="185" r="5"/><circle cx="958" cy="254" r="5"/><circle cx="1000" cy="246" r="5"/><circle cx="1048" cy="207" r="5"/><circle cx="1092" cy="180" r="5"/></g>
+<g fill="none" stroke="#9E8AFF" stroke-width="2" opacity=".75"><path d="M444 230L500 193L556 222L606 172L660 202"/><path d="M444 230L456 285M500 193L512 280M556 222L566 288M606 172L618 280M660 202L674 284"/></g>
+<g fill="#B9A8FF"><circle cx="444" cy="230" r="4"/><circle cx="500" cy="193" r="4"/><circle cx="556" cy="222" r="4"/><circle cx="606" cy="172" r="4"/><circle cx="660" cy="202" r="4"/></g>
+
+</svg>

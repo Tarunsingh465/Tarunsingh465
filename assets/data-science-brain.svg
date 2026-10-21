@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Blue violet data science neural brain</title><desc id="desc">Crisp scalable futuristic artwork for Tarun Singh's GitHub profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05091D"/><stop offset=".52" stop-color="#11123C"/><stop offset="1" stop-color="#210A3E"/></linearGradient>
+<linearGradient id="brainStroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3DE8FF"/><stop offset=".52" stop-color="#8A7BFF"/><stop offset="1" stop-color="#F06BFF"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8791FF" stroke-opacity=".13"/></pattern></defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<g font-family="monospace" fill="#A8B5FF" opacity=".72"><text x="48" y="58" font-size="23">∑ xᵢ</text><text x="48" y="88" font-size="18">μ · σ²</text><text x="48" y="117" font-size="16">P(A|B)</text><text x="1005" y="61" font-size="18">EDA</text><text x="1005" y="89" font-size="17">MODEL</text></g>
+<g fill="none" stroke="#6B9DFF" stroke-width="2" opacity=".62"><path d="M35 263H242V140"/><path d="M45 249C80 244 94 232 116 190S161 156 181 194S209 245 238 248"/><path d="M962 260H1165 M962 260V120"/><path d="M980 242L1011 215L1040 222L1071 173L1100 180L1144 132"/></g>
+<g fill="#6B9DFF"><circle cx="1011" cy="215" r="4"/><circle cx="1040" cy="222" r="4"/><circle cx="1071" cy="173" r="4"/><circle cx="1100" cy="180" r="4"/><circle cx="1144" cy="132" r="4"/></g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.98">
+    <path d="M690 106 C660 66 610 77 596 113 C560 116 549 151 566 180 C544 213 566 247 598 249 C613 278 653 277 675 253 C700 264 724 245 724 220 C747 196 738 167 721 156 C724 130 708 112 690 106 Z" stroke="#49D7FF" stroke-width="3"/>
+    <path d="M724 111 C750 76 797 79 813 112 C851 115 862 146 847 175 C868 206 851 239 817 249 C803 277 764 277 741 252 C728 238 727 224 724 220 Z" stroke="#E275FF" stroke-width="3"/>
+    <path d="M724 108 C715 130 735 142 724 159 C715 174 738 190 724 211 C716 225 730 241 741 252" stroke="#E275FF" stroke-width="2"/>
+    <path d="M602 119 Q629 135 610 157 T612 194 T642 231 M660 99 Q646 128 667 148 T663 184 T676 216 M797 105 Q777 130 799 149 T796 186 T817 225 M835 130 Q808 150 827 174 T812 208" stroke="#49D7FF" stroke-width="1.8" opacity=".85"/>
+    <path d="M584 146 Q617 145 637 165 T680 174 M580 207 Q619 190 640 207 T677 235 M761 123 Q780 149 755 166 T765 201 T752 238 M812 147 Q777 177 808 192 T810 224" stroke="#E275FF" stroke-width="1.6" opacity=".75"/>
+  </g>
+  <g fill="#49D7FF">
+    <circle cx="596" cy="113" r="4"/><circle cx="610" cy="157" r="4"/><circle cx="642" cy="231" r="4"/>
+    <circle cx="667" cy="148" r="4"/><circle cx="680" cy="174" r="4"/><circle cx="676" cy="216" r="4"/>
+  </g>
+  <g fill="#E275FF">
+    <circle cx="813" cy="112" r="4"/><circle cx="799" cy="149" r="4"/><circle cx="796" cy="186" r="4"/>
+    <circle cx="817" cy="225" r="4"/><circle cx="765" cy="201" r="4"/><circle cx="752" cy="238" r="4"/>
+  </g>
+
+<g fill="none" stroke="url(#brainStroke)" stroke-width="2" opacity=".8"><path d="M250 106C358 46 462 82 564 126"/><path d="M241 218C360 300 472 265 560 230"/><path d="M830 123C899 83 933 103 975 130"/><path d="M834 236C900 286 931 267 980 241"/></g>
+<g fill="#5DEBFF"><circle cx="250" cy="106" r="4"/><circle cx="241" cy="218" r="4"/><circle cx="975" cy="130" r="4"/><circle cx="980" cy="241" r="4"/></g>
+<path d="M0 305C160 280 290 330 450 306S742 284 900 311S1080 319 1200 298" fill="none" stroke="#6D6EFF" stroke-opacity=".26" stroke-width="2"/>
+
+</svg>
