@@ -68,12 +68,12 @@ Built a retrieval-augmented generation system with dense vs BM25 retrieval compa
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ [ML Network Intrusion Detection](https://github.com/Tarunsingh465/ml-network-intrusion-detection)
-**ML-Based IDS on CICIDS-2017**
+#### 📝 [Exam-Buddy 2.1](https://github.com/Tarunsingh465/Exam-buddy)
+**Full-Stack Online Examination Platform**
 
-End-to-end intrusion detection system achieving **99.8% accuracy** using Random Forest on the CICIDS-2017 dataset. Includes full EDA, feature engineering, multi-class classification, and model interpretability.
+A full-stack examination and assessment platform built with a Python core HTTP server (zero heavy frameworks) and MySQL. Features role-based access (Admin & Student), question banks, timed test sessions, response autosave, and automated grading.
 
-`Python` `Scikit-learn` `Pandas` `Plotly` `Joblib`
+`Python` `MySQL` `Core HTTP` `JavaScript` `HTML5/CSS3`
 
 </td>
 </tr>
@@ -147,24 +147,26 @@ Curated collection of 267 Python interview problems covering arrays, strings, OO
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <a href="https://github.com/Tarunsingh465">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarunsingh465&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarunsingh465&theme=github_dark" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Tarunsingh465">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunsingh465&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarunsingh465&theme=github_dark" alt="Top Languages by Commit" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Tarunsingh465&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" />
+<a href="https://github.com/Tarunsingh465">
+  <img src="https://streak-stats.demolab.com?user=Tarunsingh465&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarunsingh465&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://raw.githubusercontent.com/Tarunsingh465/Tarunsingh465/output/github-snake-dark.svg" alt="Animated Contribution Snake" />
 
 </div>
 
