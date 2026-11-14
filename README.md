@@ -161,7 +161,7 @@ Curated collection of 267 Python interview problems covering arrays, strings, OO
 <br/><br/>
 
 <a href="https://github.com/Tarunsingh465">
-  <img src="https://streak-stats.demolab.com?user=Tarunsingh465&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tarunsingh465&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
