@@ -152,16 +152,10 @@ Curated collection of 267 Python interview problems covering arrays, strings, OO
 <div align="center">
 
 <a href="https://github.com/Tarunsingh465">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarunsingh465&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Tarunsingh465&starting_year=2026&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/Tarunsingh465">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarunsingh465&theme=github_dark" alt="Top Languages by Commit" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Tarunsingh465">
-  <img src="https://streak-stats.demolab.com?user=Tarunsingh465&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarunsingh465&theme=github_dark" alt="Top Languages by Repo" />
 </a>
 
 <br/><br/>
